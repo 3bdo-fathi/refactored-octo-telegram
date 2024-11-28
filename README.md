@@ -1,8 +1,8 @@
 # Abdulrahman Mohamed
 ### Junior Penetration Tester
-Cairo, Egypt – +201025344343 – [Email](mailto:your-email@example.com) – [LinkedIn](your-linkedin-url) – [Medium](your-medium-url)
+Cairo, Egypt – +201025344343 – [abdulrahmanmohamedfathi@gmail.com](mailto:abdulrahmanmohamedfathi@gmail.com) – [LinkedIn](https://www.linkedin.com/in/3bdo-fathi/) – [Medium](https://medium.com/@3bdo.fathi)
 
-Junior Penetration Tester specializing in web and mobile application security. Skilled in identifying, analyzing, and reporting vulnerabilities using advanced tools and methodologies. Experienced in conducting comprehensive penetration tests, delivering detailed reports, and providing actionable recommendations to enhance application security. Passionate about contributing to a security team and improving overall cybersecurity posture.
+Junior Penetration Tester specializing in web and mobile application security. Proficient in identifying, analyzing, and reporting vulnerabilities using advanced tools and methodologies. Experienced in conducting comprehensive penetration tests, delivering detailed reports, and providing actionable recommendations to enhance application security. Dedicated to contributing to a security team and strengthening overall cybersecurity posture by identifying and mitigating risks.
 
 ---
 
@@ -25,7 +25,7 @@ Cumulative GPA: Very Good
 ### Orange Digital Center Scholarship (Cyber Security Track)  
 **AMIT Learning, Maadi, Egypt**  
 *2024-10 – 2024-12*  
-- Focus on practical labs and theoretical knowledge for Penetration Testing and SOC Analyst roles.
+- Focus on practical labs and theoretical knowledge to develop skills for Penetration Testing and SOC Analyst roles.
 
 ### Application Penetration Tester  
 **We Innovate Bootcamp, Administrative Capital, Egypt**  
