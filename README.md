@@ -1,60 +1,88 @@
-# Hello, I'm Abdulrahman
-<a href="[https://linkedin.com](https://www.linkedin.com/in/3bdo-fathi/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Abdulrahman Mohamed
+### Junior Penetration Tester
+Cairo, Egypt – +201025344343 – [Email](mailto:your-email@example.com) – [LinkedIn](your-linkedin-url) – [Medium](your-medium-url)
 
-[Brief Introduction - Remove this afterwards]
+Junior Penetration Tester specializing in web and mobile application security. Skilled in identifying, analyzing, and reporting vulnerabilities using advanced tools and methodologies. Experienced in conducting comprehensive penetration tests, delivering detailed reports, and providing actionable recommendations to enhance application security. Passionate about contributing to a security team and improving overall cybersecurity posture.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+---
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## Education
+**Bachelor of Computers & Information Technology**  
+Egyptian E-learning University (Fayoum University)  
+*2022-09 – Present*  
+Department: Information Technology  
+Cumulative GPA: Very Good
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Work Experience
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+### Vulnerability Analyst/Penetration Tester  
+**DEPI (Global Knowledge Company), Cairo, Egypt**  
+*2024-10 – Present*  
+- Pen Testing & Red Team Operations, Reconnaissance, Scanning & Research, Gaining Access, Maintaining Access, Covering Tracks & Reporting.
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### Orange Digital Center Scholarship (Cyber Security Track)  
+**AMIT Learning, Maadi, Egypt**  
+*2024-10 – 2024-12*  
+- Focus on practical labs and theoretical knowledge for Penetration Testing and SOC Analyst roles.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### Application Penetration Tester  
+**We Innovate Bootcamp, Administrative Capital, Egypt**  
+*2024-08 – 2024-10*  
+- Application Penetration Testing (Web and Mobile)
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### Content Coordinator  
+**ERROR BY BOT, Fayoum, Egypt (Remote)**  
+*2023-09 – Present*  
+- Develop and organize programming course materials on data structures, Java, and OOP.
+- Coordinate with instructors for content accuracy and manage social media to promote courses.
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+- Web Penetration Testing – Security Meter
+- Mobile Penetration Testing – Security Meter (currently studying)
+- eJPTv1 – Netriders Academy
+- SOC Analyst (ODC Diploma)
+- SOC Tier 1 Analyst Certificate – TryHackMe
+- Security+ – Netriders Academy (currently studying)
+- CyberOps Associate – National Telecommunication Institute (NTI)
+- CCNA v7 – National Telecommunication Institute (NTI)
+- Device Configuration and Management – Certiport
+- Other certifications from platforms like Udemy, Coursera, LinkedIn Learning, NetAcad, and Mahara-Tech
+
+---
+
+## Technical Skills
+- **Penetration Testing**: Writing/reviewing reports, Python scripting for automation, web app security vulnerabilities (XSS, CSRF, RCE, etc.), tools like Wireshark, Nessus, and Snort.
+- **Networking**: Strong knowledge of TCP/IP, network protocols, Cisco routers/switches, and Azure Virtual Networks. VLANs, VPNs, and firewall configuration.
+- **Programming**: Java, C++, JavaScript, PHP (OOP focus).
+- **System Admin**: Linux and Windows, firewall configuration, endpoint security.
+- **SIEM & Security Tools**: QRadar, Splunk, Snort for incident detection, threat monitoring, and vulnerability management.
+- **Version Control**: Git, GitHub.
+- **Data Analysis**: Strong SQL skills.
+
+---
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+### Independent Projects:
+1. **Ransomware Detection and Response Plan**  
+   - Simulated ransomware attacks and implemented detection using SIEM tools (Splunk, QRadar) and Wazuh. Delivered a response plan with testing results and detailed documentation.
+
+2. **Network Projects**  
+   - Designed and optimized LAN, VLAN, and security solutions for diverse environments.
+
+### Academic Projects:
+1. **Front-End Project**  
+   - Designed a multi-page coffee shop website with features like user registration, login, shopping cart, and payment processing.
+
+2. **Contact Management Application**  
+   - Developed a GUI app for adding, editing, deleting, and searching personal contacts.
+
+3. **Data Analysis Model**  
+   - Built a data analysis model using preprocessing and feature selection techniques.
+
+4. **Online Purchase System**  
+   - Created a software system to enhance online customer transactions.
